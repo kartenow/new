@@ -81,7 +81,7 @@ def menu():
     time.sleep(0.05)
     print("\033[1;41m2\033[1;37m       Stop Process Press CTRL + z        \033[1;0m")
     time.sleep(0.05)
-    print("\033[1;41m3\033[1;37m         Type python2 alizada.py          \033[1;0m")
+    print("\033[1;41m3\033[1;37m         Type python2 abdull.py          \033[1;0m")
     time.sleep(0.05)
     print("\033[1;96m[1]  Install With Out Fb Id  Tool      ●")
     time.sleep(0.05)
@@ -102,7 +102,7 @@ def mafia():
 		os.system("cd Clonings")
                 love("\033[1;93mTool User Name\033[1;92m Black\033[1;93m Password \033[1;92mMafia")
                 time.sleep(6)
-                os.system("python2 Cloningx.py")
+                os.system("python2 Clonings.py")
 	
 	elif black =="0":
 	    os.system("exit")
